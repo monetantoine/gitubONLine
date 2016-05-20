@@ -1,0 +1,407 @@
+From MAILER-DAEMON  Tue May 17 13:27:06 2016
+Return-Path: <>
+X-Original-To: root@22a4d0e7af73
+Delivered-To: root@22a4d0e7af73
+Received: by 22a4d0e7af73 (Postfix)
+	id 09ED12A13F2; Tue, 17 May 2016 13:27:06 +0000 (UTC)
+Date: Tue, 17 May 2016 13:27:06 +0000 (UTC)
+From: MAILER-DAEMON@wt10.ephec-ti.be (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: root@22a4d0e7af73
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="025BC2A13EF.1463491626/22a4d0e7af73"
+Message-Id: <20160517132706.09ED12A13F2@22a4d0e7af73>
+
+This is a MIME-encapsulated message.
+
+--025BC2A13EF.1463491626/22a4d0e7af73
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host 22a4d0e7af73.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<nour-eddine@wt10.ephec-ti.be>: unknown user: "nour-eddine"
+
+--025BC2A13EF.1463491626/22a4d0e7af73
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; 22a4d0e7af73
+X-Postfix-Queue-ID: 025BC2A13EF
+X-Postfix-Sender: rfc822; root@22a4d0e7af73
+Arrival-Date: Tue, 17 May 2016 13:27:05 +0000 (UTC)
+
+Final-Recipient: rfc822; nour-eddine@wt10.ephec-ti.be
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "nour-eddine"
+
+--025BC2A13EF.1463491626/22a4d0e7af73
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <root@22a4d0e7af73>
+Received: by 22a4d0e7af73 (Postfix, from userid 0)
+	id 025BC2A13EF; Tue, 17 May 2016 13:27:05 +0000 (UTC)
+Subject: Test Postfix
+To: <nour-eddine@wt10.ephec-ti.be>
+X-Mailer: mail (GNU Mailutils 2.99.98)
+Message-Id: <20160517132706.025BC2A13EF@22a4d0e7af73>
+Date: Tue, 17 May 2016 13:27:05 +0000 (UTC)
+From: root@22a4d0e7af73 (root)
+
+Test mail from postfix
+
+--025BC2A13EF.1463491626/22a4d0e7af73--
+
+From MAILER-DAEMON  Tue May 17 13:57:08 2016
+Return-Path: <>
+X-Original-To: root@22a4d0e7af73
+Delivered-To: root@22a4d0e7af73
+Received: by 22a4d0e7af73 (Postfix)
+	id 365B82A13F6; Tue, 17 May 2016 13:57:08 +0000 (UTC)
+Date: Tue, 17 May 2016 13:57:08 +0000 (UTC)
+From: MAILER-DAEMON@wt10.ephec-ti.be (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: root@22a4d0e7af73
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="2E8D82A13F5.1463493428/22a4d0e7af73"
+Message-Id: <20160517135708.365B82A13F6@22a4d0e7af73>
+
+This is a MIME-encapsulated message.
+
+--2E8D82A13F5.1463493428/22a4d0e7af73
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host 22a4d0e7af73.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<dimitri@wt10.ephec-ti.be>: unknown user: "dimitri"
+
+--2E8D82A13F5.1463493428/22a4d0e7af73
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; 22a4d0e7af73
+X-Postfix-Queue-ID: 2E8D82A13F5
+X-Postfix-Sender: rfc822; root@22a4d0e7af73
+Arrival-Date: Tue, 17 May 2016 13:57:08 +0000 (UTC)
+
+Final-Recipient: rfc822; dimitri@wt10.ephec-ti.be
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "dimitri"
+
+--2E8D82A13F5.1463493428/22a4d0e7af73
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <root@22a4d0e7af73>
+Received: by 22a4d0e7af73 (Postfix, from userid 0)
+	id 2E8D82A13F5; Tue, 17 May 2016 13:57:08 +0000 (UTC)
+Subject: Test Postfix
+To: <Dimitri@wt10.ephec-ti.be>
+X-Mailer: mail (GNU Mailutils 2.99.98)
+Message-Id: <20160517135708.2E8D82A13F5@22a4d0e7af73>
+Date: Tue, 17 May 2016 13:57:08 +0000 (UTC)
+From: root@22a4d0e7af73 (root)
+
+Test mail from postfix
+
+--2E8D82A13F5.1463493428/22a4d0e7af73--
+
+From MAILER-DAEMON  Tue May 17 14:30:33 2016
+Return-Path: <>
+X-Original-To: root@22a4d0e7af73
+Delivered-To: root@22a4d0e7af73
+Received: by 22a4d0e7af73 (Postfix)
+	id 712F22A13F6; Tue, 17 May 2016 14:30:33 +0000 (UTC)
+Date: Tue, 17 May 2016 14:30:33 +0000 (UTC)
+From: MAILER-DAEMON@wt10.ephec-ti.be (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: root@22a4d0e7af73
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="6944B2A13F5.1463495433/22a4d0e7af73"
+Message-Id: <20160517143033.712F22A13F6@22a4d0e7af73>
+
+This is a MIME-encapsulated message.
+
+--6944B2A13F5.1463495433/22a4d0e7af73
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host 22a4d0e7af73.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<antoine@wt10.ephec-ti.be>: unknown user: "antoine"
+
+--6944B2A13F5.1463495433/22a4d0e7af73
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; 22a4d0e7af73
+X-Postfix-Queue-ID: 6944B2A13F5
+X-Postfix-Sender: rfc822; root@22a4d0e7af73
+Arrival-Date: Tue, 17 May 2016 14:30:33 +0000 (UTC)
+
+Final-Recipient: rfc822; antoine@wt10.ephec-ti.be
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "antoine"
+
+--6944B2A13F5.1463495433/22a4d0e7af73
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <root@22a4d0e7af73>
+Received: by 22a4d0e7af73 (Postfix, from userid 0)
+	id 6944B2A13F5; Tue, 17 May 2016 14:30:33 +0000 (UTC)
+Subject: Test Postfix
+To: <Antoine@wt10.ephec-ti.be>
+X-Mailer: mail (GNU Mailutils 2.99.98)
+Message-Id: <20160517143033.6944B2A13F5@22a4d0e7af73>
+Date: Tue, 17 May 2016 14:30:33 +0000 (UTC)
+From: root@22a4d0e7af73 (root)
+
+Yeaaaaaahhhhh le server marche
+
+--6944B2A13F5.1463495433/22a4d0e7af73--
+
+From MAILER-DAEMON  Tue May 17 15:17:55 2016
+Return-Path: <>
+X-Original-To: root@22a4d0e7af73
+Delivered-To: root@22a4d0e7af73
+Received: by 22a4d0e7af73 (Postfix)
+	id 3E4E32A13F8; Tue, 17 May 2016 15:17:55 +0000 (UTC)
+Date: Tue, 17 May 2016 15:17:55 +0000 (UTC)
+From: MAILER-DAEMON@wt10.ephec-ti.be (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: root@22a4d0e7af73
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="36B962A13F7.1463498275/22a4d0e7af73"
+Message-Id: <20160517151755.3E4E32A13F8@22a4d0e7af73>
+
+This is a MIME-encapsulated message.
+
+--36B962A13F7.1463498275/22a4d0e7af73
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host 22a4d0e7af73.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<noureddine@wt10.ephec-ti.be>: unknown user: "noureddine"
+
+--36B962A13F7.1463498275/22a4d0e7af73
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; 22a4d0e7af73
+X-Postfix-Queue-ID: 36B962A13F7
+X-Postfix-Sender: rfc822; root@22a4d0e7af73
+Arrival-Date: Tue, 17 May 2016 15:17:55 +0000 (UTC)
+
+Final-Recipient: rfc822; noureddine@wt10.ephec-ti.be
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "noureddine"
+
+--36B962A13F7.1463498275/22a4d0e7af73
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <root@22a4d0e7af73>
+Received: by 22a4d0e7af73 (Postfix, from userid 0)
+	id 36B962A13F7; Tue, 17 May 2016 15:17:55 +0000 (UTC)
+To: <noureddine@wt10.ephec-ti.be>
+X-Mailer: mail (GNU Mailutils 2.99.98)
+Message-Id: <20160517151755.36B962A13F7@22a4d0e7af73>
+Date: Tue, 17 May 2016 15:17:55 +0000 (UTC)
+From: root@22a4d0e7af73 (root)
+
+test
+
+--36B962A13F7.1463498275/22a4d0e7af73--
+
+From MAILER-DAEMON  Wed May 18 08:05:46 2016
+Return-Path: <>
+X-Original-To: root@22a4d0e7af73
+Delivered-To: root@22a4d0e7af73
+Received: by 22a4d0e7af73 (Postfix)
+	id A66B52A1402; Wed, 18 May 2016 08:05:46 +0000 (UTC)
+Date: Wed, 18 May 2016 08:05:46 +0000 (UTC)
+From: MAILER-DAEMON@wt10.ephec-ti.be (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: root@22a4d0e7af73
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="A0A1B2A1401.1463558746/22a4d0e7af73"
+Message-Id: <20160518080546.A66B52A1402@22a4d0e7af73>
+
+This is a MIME-encapsulated message.
+
+--A0A1B2A1401.1463558746/22a4d0e7af73
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host 22a4d0e7af73.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<antoine@wt10.ephec-ti.be>: unknown user: "antoine"
+
+--A0A1B2A1401.1463558746/22a4d0e7af73
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; 22a4d0e7af73
+X-Postfix-Queue-ID: A0A1B2A1401
+X-Postfix-Sender: rfc822; root@22a4d0e7af73
+Arrival-Date: Wed, 18 May 2016 08:05:46 +0000 (UTC)
+
+Final-Recipient: rfc822; antoine@wt10.ephec-ti.be
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "antoine"
+
+--A0A1B2A1401.1463558746/22a4d0e7af73
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <root@22a4d0e7af73>
+Received: by 22a4d0e7af73 (Postfix, from userid 0)
+	id A0A1B2A1401; Wed, 18 May 2016 08:05:46 +0000 (UTC)
+Subject: wt10
+To: <Antoine@wt10.ephec-ti.be>
+X-Mailer: mail (GNU Mailutils 2.99.98)
+Message-Id: <20160518080546.A0A1B2A1401@22a4d0e7af73>
+Date: Wed, 18 May 2016 08:05:46 +0000 (UTC)
+From: root@22a4d0e7af73 (root)
+
+CouCou c est toto
+
+--A0A1B2A1401.1463558746/22a4d0e7af73--
+
+From MAILER-DAEMON  Thu May 19 09:45:16 2016
+Return-Path: <>
+X-Original-To: root@22a4d0e7af73
+Delivered-To: root@22a4d0e7af73
+Received: by 22a4d0e7af73 (Postfix)
+	id 577F82A1402; Thu, 19 May 2016 09:45:16 +0000 (UTC)
+Date: Thu, 19 May 2016 09:45:16 +0000 (UTC)
+From: MAILER-DAEMON@wt10.ephec-ti.be (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: root@22a4d0e7af73
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="501A02A1401.1463651116/22a4d0e7af73"
+Message-Id: <20160519094516.577F82A1402@22a4d0e7af73>
+
+This is a MIME-encapsulated message.
+
+--501A02A1401.1463651116/22a4d0e7af73
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host 22a4d0e7af73.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<antoine@wt10.ephec-ti.be>: unknown user: "antoine"
+
+--501A02A1401.1463651116/22a4d0e7af73
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; 22a4d0e7af73
+X-Postfix-Queue-ID: 501A02A1401
+X-Postfix-Sender: rfc822; root@22a4d0e7af73
+Arrival-Date: Thu, 19 May 2016 09:45:16 +0000 (UTC)
+
+Final-Recipient: rfc822; antoine@wt10.ephec-ti.be
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "antoine"
+
+--501A02A1401.1463651116/22a4d0e7af73
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <root@22a4d0e7af73>
+Received: by 22a4d0e7af73 (Postfix, from userid 0)
+	id 501A02A1401; Thu, 19 May 2016 09:45:16 +0000 (UTC)
+Subject: wt10
+To: <Antoine@wt10.ephec-ti.be>
+X-Mailer: mail (GNU Mailutils 2.99.98)
+Message-Id: <20160519094516.501A02A1401@22a4d0e7af73>
+Date: Thu, 19 May 2016 09:45:16 +0000 (UTC)
+From: root@22a4d0e7af73 (root)
+
+CouCou c est vvanden
+
+--501A02A1401.1463651116/22a4d0e7af73--
+

@@ -1,0 +1,26 @@
+[Tue May 17 09:07:36.258531 2016] [mpm_prefork:notice] [pid 8189] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.16 configured -- resuming normal operations
+[Tue May 17 09:07:36.258632 2016] [core:notice] [pid 8189] AH00094: Command line: '/usr/sbin/apache2'
+[Tue May 17 09:08:32.404179 2016] [mpm_prefork:notice] [pid 8189] AH00169: caught SIGTERM, shutting down
+[Tue May 17 09:08:33.219609 2016] [mpm_prefork:notice] [pid 8846] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.16 configured -- resuming normal operations
+[Tue May 17 09:08:33.219671 2016] [core:notice] [pid 8846] AH00094: Command line: '/usr/sbin/apache2'
+[Tue May 17 09:12:16.709664 2016] [mpm_prefork:notice] [pid 8846] AH00169: caught SIGTERM, shutting down
+[Tue May 17 09:12:17.788371 2016] [mpm_prefork:notice] [pid 9494] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.16 configured -- resuming normal operations
+[Tue May 17 09:12:17.788435 2016] [core:notice] [pid 9494] AH00094: Command line: '/usr/sbin/apache2'
+[Tue May 17 10:21:10.606366 2016] [mpm_prefork:notice] [pid 9494] AH00169: caught SIGTERM, shutting down
+[Tue May 17 10:21:11.433361 2016] [mpm_prefork:notice] [pid 9573] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.16 configured -- resuming normal operations
+[Tue May 17 10:21:11.433448 2016] [core:notice] [pid 9573] AH00094: Command line: '/usr/sbin/apache2'
+[Tue May 17 10:26:13.947061 2016] [mpm_prefork:notice] [pid 9573] AH00169: caught SIGTERM, shutting down
+[Tue May 17 10:26:15.021338 2016] [mpm_prefork:notice] [pid 9635] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.16 configured -- resuming normal operations
+[Tue May 17 10:26:15.021428 2016] [core:notice] [pid 9635] AH00094: Command line: '/usr/sbin/apache2'
+[Tue May 17 12:28:17.086761 2016] [mpm_prefork:notice] [pid 9635] AH00169: caught SIGTERM, shutting down
+[Tue May 17 12:28:18.191582 2016] [mpm_prefork:notice] [pid 9703] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.16 configured -- resuming normal operations
+[Tue May 17 12:28:18.191670 2016] [core:notice] [pid 9703] AH00094: Command line: '/usr/sbin/apache2'
+[Tue May 17 12:32:49.242946 2016] [mpm_prefork:notice] [pid 9703] AH00169: caught SIGTERM, shutting down
+[Tue May 17 12:32:50.319551 2016] [mpm_prefork:notice] [pid 9759] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.16 configured -- resuming normal operations
+[Tue May 17 12:32:50.319640 2016] [core:notice] [pid 9759] AH00094: Command line: '/usr/sbin/apache2'
+[Tue May 17 12:35:54.291004 2016] [mpm_prefork:notice] [pid 9759] AH00169: caught SIGTERM, shutting down
+[Tue May 17 12:35:55.366969 2016] [mpm_prefork:notice] [pid 9813] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.16 configured -- resuming normal operations
+[Tue May 17 12:35:55.367093 2016] [core:notice] [pid 9813] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 18 15:51:05.255908 2016] [:error] [pid 9821] [client 90.21.242.165:40757] script '/var/www/html/xmlrpc.php' not found or unable to stat
+[Thu May 19 14:47:01.534352 2016] [core:error] [pid 14250] [client 59.162.33.101:38250] AH00135: Invalid method in request XGET /web-console/ServerInfo.jsp HTTP/1.0
+[Thu May 19 14:47:04.076696 2016] [core:error] [pid 10933] [client 59.162.33.101:38980] AH00135: Invalid method in request XGET /jmx-console/HtmlAdaptor HTTP/1.0
